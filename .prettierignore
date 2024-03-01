@@ -1,0 +1,13 @@
+.husky
+.vscode
+android
+assets
+build
+coverage
+ios
+node_modules
+src/assets
+vendor
+.gitignore
+package-lock.json
+package.json
